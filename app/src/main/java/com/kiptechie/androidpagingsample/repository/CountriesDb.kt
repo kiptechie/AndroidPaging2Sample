@@ -26,8 +26,8 @@ class CountriesDb {
             return countries
         }
 
-        fun deleteCountry(countryCode: String) {
-            countries.filter { countryCode != countryCode }
+        fun deleteCountryById(id: Int) {
+            countries.removeAll { country -> country.id == id }
         }
 
         fun addCountry(country: Country) {

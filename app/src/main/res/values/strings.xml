@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AndroidPagingSample</string>
+    <string name="app_name">Paging 2 Sample</string>
+    <string name="delete_top">Delete Top</string>
 </resources>

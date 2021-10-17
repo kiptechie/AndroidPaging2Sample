@@ -41,5 +41,12 @@ class MainActivity : AppCompatActivity() {
             Log.v(TAG, "Observed ${countries.size} countries from viewModel...")
             countriesPagedAdapter.submitList(countries)
         })
+        setClickListeners()
+    }
+
+    private fun setClickListeners() {
+        binding.deleteTop.setOnClickListener {
+            mainViewModel.deleteTop()
+        }
     }
 }

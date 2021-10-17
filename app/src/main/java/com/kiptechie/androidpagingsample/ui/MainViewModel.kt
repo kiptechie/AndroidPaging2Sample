@@ -23,4 +23,11 @@ class MainViewModel : ViewModel() {
         LivePagedListBuilder(dataSource, pagingConfig)
             .setBoundaryCallback(CountriesBoundaryCallBack())
             .build()
+
+    private var topId = 1
+
+    fun deleteTop() {
+        dataSource.deleteById(topId)
+        topId++
+    }
 }
