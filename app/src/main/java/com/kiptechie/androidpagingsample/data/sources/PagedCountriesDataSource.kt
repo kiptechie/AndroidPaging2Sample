@@ -10,7 +10,13 @@ import com.kiptechie.androidpagingsample.repository.CountriesDb
 class PagedCountriesDataSource : PageKeyedDataSource<Int, Country>() {
 
     private val TAG = PagedCountriesDataSource::class.java.simpleName
-    private val source = CountriesDb.getCountries()
+    private var source = CountriesDb.getCountries()
+
+    fun deleteById(id: Int) {
+        Log.v(TAG, "removing country by id $id and invalidating...")
+        CountriesDb.deleteCountryById(id)
+        invalidate()
+    }
 
     override fun loadInitial(
         params: LoadInitialParams<Int>,
@@ -44,10 +50,17 @@ class PagedCountriesDataSourceFactory : DataSource.Factory<Int, Country>() {
 
     var dataSource = MutableLiveData<PagedCountriesDataSource>()
     lateinit var latestSource: PagedCountriesDataSource
+    private val TAG = PagedCountriesDataSourceFactory::class.java.simpleName
 
     override fun create(): DataSource<Int, Country> {
         latestSource = PagedCountriesDataSource()
         dataSource.postValue(latestSource)
         return latestSource
     }
+
+    fun deleteById(id: Int) {
+        Log.v(TAG, "removing country by id ${id}...")
+        latestSource.deleteById(id)
+    }
+
 }
