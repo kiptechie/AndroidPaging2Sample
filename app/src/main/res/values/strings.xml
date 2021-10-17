@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Paging 2 Sample</string>
+    <string name="app_name_room">Paging 2 Sample with ROOM</string>
+    <string name="app_name_json">Paging 2 Sample with JSON</string>
     <string name="delete_top">Delete Top</string>
+    <string name="json_data">JSON Data</string>
+    <string name="room_data">Room Data</string>
 </resources>
