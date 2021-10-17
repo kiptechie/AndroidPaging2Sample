@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "Afghanistan",
+    "countryCode": "93",
+    "shortCode": "AF",
+    "population": "29,121,286",
+    "area": "647,500"
+  },
+  {
+    "name": "Albania",
+    "countryCode": "355",
+    "shortCode": "AL",
+    "population": "2,986,952",
+    "area": "28,748"
+  },
+  {
+    "name": "Algeria",
+    "countryCode": "213",
+    "shortCode": "DZ",
+    "population": "34,586,184",
+    "area": "2,381,740"
+  },
+  {
+    "name": "American Samoa",
+    "countryCode": "1-684",
+    "shortCode": "AS",
+    "population": "57,881",
+    "area": "199"
+  },
+  {
+    "name": "Andorra",
+    "countryCode": "376",
+    "shortCode": "AD",
+    "population": "84,000",
+    "area": "468"
+  },
+  {
+    "name": "Angola",
+    "countryCode": "244",
+    "shortCode": "AO",
+    "population": "13,068,161",
+    "area": "1,246,700"
+  },
+  {
+    "name": "Anguilla",
+    "countryCode": "1-264",
+    "shortCode": "AI",
+    "population": "13,254",
+    "area": "102"
+  },
+  {
+    "name": "Antarctica",
+    "countryCode": "672",
+    "shortCode": "AQ",
+    "population": "0",
+    "area": "14,000,000"
+  },
+  {
+    "name": "Antigua and Barbuda",
+    "countryCode": "1-268",
+    "shortCode": "AG",
+    "population": "86,754",
+    "area": "443"
+  },
+  {
+    "name": "Argentina",
+    "countryCode": "54",
+    "shortCode": "AR",
+    "population": "41,343,201",
+    "area": "2,766,890"
+  },
+  {
+    "name": "Armenia",
+    "countryCode": "374",
+    "shortCode": "AM",
+    "population": "2,968,000",
+    "area": "29,800"
+  },
+  {
+    "name": "Aruba",
+    "countryCode": "297",
+    "shortCode": "AW",
+    "population": "71,566",
+    "area": "193"
+  },
+  {
+    "name": "Australia",
+    "countryCode": "61",
+    "shortCode": "AU",
+    "population": "21,515,754",
+    "area": "7,686,850"
+  },
+  {
+    "name": "Austria",
+    "countryCode": "43",
+    "shortCode": "AT",
+    "population": "8,205,000",
+    "area": "83,858"
+  },
+  {
+    "name": "Azerbaijan",
+    "countryCode": "994",
+    "shortCode": "AZ",
+    "population": "8,303,512",
+    "area": "86,600"
+  },
+  {
+    "name": "Bahamas",
+    "countryCode": "1-242",
+    "shortCode": "BS",
+    "population": "301,790",
+    "area": "13,940"
+  },
+  {
+    "name": "Bahrain",
+    "countryCode": "973",
+    "shortCode": "BH",
+    "population": "738,004",
+    "area": "665"
+  },
+  {
+    "name": "Bangladesh",
+    "countryCode": "880",
+    "shortCode": "BD",
+    "population": "156,118,464",
+    "area": "144,000"
+  },
+  {
+    "name": "Barbados",
+    "countryCode": "1-246",
+    "shortCode": "BB",
+    "population": "285,653",
+    "area": "431"
+  },
+  {
+    "name": "Belarus",
+    "countryCode": "375",
+    "shortCode": "BY",
+    "population": "9,685,000",
+    "area": "207,600"
+  },
+  {
+    "name": "Belgium",
+    "countryCode": "32",
+    "shortCode": "BE",
+    "population": "10,403,000",
+    "area": "30,510"
+  },
+  {
+    "name": "Belize",
+    "countryCode": "501",
+    "shortCode": "BZ",
+    "population": "314,522",
+    "area": "22,966"
+  },
+  {
+    "name": "Benin",
+    "countryCode": "229",
+    "shortCode": "BJ",
+    "population": "9,056,010",
+    "area": "112,620"
+  },
+  {
+    "name": "Bermuda",
+    "countryCode": "1-441",
+    "shortCode": "BM",
+    "population": "65,365",
+    "area": "53"
+  },
+  {
+    "name": "Bhutan",
+    "countryCode": "975",
+    "shortCode": "BT",
+    "population": "699,847",
+    "area": "47,000"
+  },
+  {
+    "name": "Bolivia",
+    "countryCode": "591",
+    "shortCode": "BO",
+    "population": "9,947,418",
+    "area": "1,098,580"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "countryCode": "387",
+    "shortCode": "BA",
+    "population": "4,590,000",
+    "area": "51,129"
+  },
+  {
+    "name": "Botswana",
+    "countryCode": "267",
+    "shortCode": "BW",
+    "population": "2,029,307",
+    "area": "600,370"
+  },
+  {
+    "name": "Brazil",
+    "countryCode": "55",
+    "shortCode": "BR",
+    "population": "201,103,330",
+    "area": "8,511,965"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "countryCode": "246",
+    "shortCode": "IO",
+    "population": "4,000",
+    "area": "60"
+  },
+  {
+    "name": "British Virgin Islands",
+    "countryCode": "1-284",
+    "shortCode": "VG",
+    "population": "21,730",
+    "area": "153"
+  },
+  {
+    "name": "Brunei",
+    "countryCode": "673",
+    "shortCode": "BN",
+    "population": "395,027",
+    "area": "5,770"
+  },
+  {
+    "name": "Bulgaria",
+    "countryCode": "359",
+    "shortCode": "BG",
+    "population": "7,148,785",
+    "area": "110,910"
+  },
+  {
+    "name": "Burkina Faso",
+    "countryCode": "226",
+    "shortCode": "BF",
+    "population": "16,241,811",
+    "area": "274,200"
+  },
+  {
+    "name": "Burundi",
+    "countryCode": "257",
+    "shortCode": "BI",
+    "population": "9,863,117",
+    "area": "27,830"
+  },
+  {
+    "name": "Cambodia",
+    "countryCode": "855",
+    "shortCode": "KH",
+    "population": "14,453,680",
+    "area": "181,040"
+  },
+  {
+    "name": "Cameroon",
+    "countryCode": "237",
+    "shortCode": "CM",
+    "population": "19,294,149",
+    "area": "475,440"
+  },
+  {
+    "name": "Canada",
+    "countryCode": "1",
+    "shortCode": "CA",
+    "population": "33,679,000",
+    "area": "9,984,670"
+  },
+  {
+    "name": "Cape Verde",
+    "countryCode": "238",
+    "shortCode": "CV",
+    "population": "508,659",
+    "area": "4,033"
+  },
+  {
+    "name": "Cayman Islands",
+    "countryCode": "1-345",
+    "shortCode": "KY",
+    "population": "44,270",
+    "area": "262"
+  },
+  {
+    "name": "Central African Republic",
+    "countryCode": "236",
+    "shortCode": "CF",
+    "population": "4,844,927",
+    "area": "622,984"
+  },
+  {
+    "name": "Chad",
+    "countryCode": "235",
+    "shortCode": "TD",
+    "population": "10,543,464",
+    "area": "1,284,000"
+  },
+  {
+    "name": "Chile",
+    "countryCode": "56",
+    "shortCode": "CL",
+    "population": "16,746,491",
+    "area": "756,950"
+  },
+  {
+    "name": "China",
+    "countryCode": "86",
+    "shortCode": "CN",
+    "population": "1,330,044,000",
+    "area": "9,596,960"
+  },
+  {
+    "name": "Christmas Island",
+    "countryCode": "61",
+    "shortCode": "CX",
+    "population": "1,500",
+    "area": "135"
+  },
+  {
+    "name": "Cocos Islands",
+    "countryCode": "61",
+    "shortCode": "CC",
+    "population": "628",
+    "area": "14"
+  },
+  {
+    "name": "Colombia",
+    "countryCode": "57",
+    "shortCode": "CO",
+    "population": "47,790,000",
+    "area": "1,138,910"
+  },
+  {
+    "name": "Comoros",
+    "countryCode": "269",
+    "shortCode": "KM",
+    "population": "773,407",
+    "area": "2,170"
+  },
+  {
+    "name": "Cook Islands",
+    "countryCode": "682",
+    "shortCode": "CK",
+    "population": "21,388",
+    "area": "240"
+  },
+  {
+    "name": "Costa Rica",
+    "countryCode": "506",
+    "shortCode": "CR",
+    "population": "4,516,220",
+    "area": "51,100"
+  },
+  {
+    "name": "Croatia",
+    "countryCode": "385",
+    "shortCode": "HR",
+    "population": "4,491,000",
+    "area": "56,542"
+  },
+  {
+    "name": "Cuba",
+    "countryCode": "53",
+    "shortCode": "CU",
+    "population": "11,423,000",
+    "area": "110,860"
+  },
+  {
+    "name": "Curacao",
+    "countryCode": "599",
+    "shortCode": "CW",
+    "population": "141,766",
+    "area": "444"
+  },
+  {
+    "name": "Cyprus",
+    "countryCode": "357",
+    "shortCode": "CY",
+    "population": "1,102,677",
+    "area": "9,250"
+  },
+  {
+    "name": "Czech Republic",
+    "countryCode": "420",
+    "shortCode": "CZ",
+    "population": "10,476,000",
+    "area": "78,866"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "countryCode": "243",
+    "shortCode": "CD",
+    "population": "70,916,439",
+    "area": "2,345,410"
+  },
+  {
+    "name": "Denmark",
+    "countryCode": "45",
+    "shortCode": "DK",
+    "population": "5,484,000",
+    "area": "43,094"
+  },
+  {
+    "name": "Djibouti",
+    "countryCode": "253",
+    "shortCode": "DJ",
+    "population": "740,528",
+    "area": "23,000"
+  },
+  {
+    "name": "Dominica",
+    "countryCode": "1-767",
+    "shortCode": "DM",
+    "population": "72,813",
+    "area": "754"
+  },
+  {
+    "name": "Dominican Republic",
+    "countryCode": "1-809, 1-829, 1-849",
+    "shortCode": "DO",
+    "population": "9,823,821",
+    "area": "48,730"
+  },
+  {
+    "name": "East Timor",
+    "countryCode": "670",
+    "shortCode": "TL",
+    "population": "1,154,625",
+    "area": "15,007"
+  },
+  {
+    "name": "Ecuador",
+    "countryCode": "593",
+    "shortCode": "EC",
+    "population": "14,790,608",
+    "area": "283,560"
+  },
+  {
+    "name": "Egypt",
+    "countryCode": "20",
+    "shortCode": "EG",
+    "population": "80,471,869",
+    "area": "1,001,450"
+  },
+  {
+    "name": "El Salvador",
+    "countryCode": "503",
+    "shortCode": "SV",
+    "population": "6,052,064",
+    "area": "21,040"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "countryCode": "240",
+    "shortCode": "GQ",
+    "population": "1,014,999",
+    "area": "28,051"
+  },
+  {
+    "name": "Eritrea",
+    "countryCode": "291",
+    "shortCode": "ER",
+    "population": "5,792,984",
+    "area": "121,320"
+  },
+  {
+    "name": "Estonia",
+    "countryCode": "372",
+    "shortCode": "EE",
+    "population": "1,291,170",
+    "area": "45,226"
+  },
+  {
+    "name": "Ethiopia",
+    "countryCode": "251",
+    "shortCode": "ET",
+    "population": "88,013,491",
+    "area": "1,127,127"
+  },
+  {
+    "name": "Falkland Islands",
+    "countryCode": "500",
+    "shortCode": "FK",
+    "population": "2,638",
+    "area": "12,173"
+  },
+  {
+    "name": "Faroe Islands",
+    "countryCode": "298",
+    "shortCode": "FO",
+    "population": "48,228",
+    "area": "1,399"
+  },
+  {
+    "name": "Fiji",
+    "countryCode": "679",
+    "shortCode": "FJ",
+    "population": "875,983",
+    "area": "18,270"
+  },
+  {
+    "name": "Finland",
+    "countryCode": "358",
+    "shortCode": "FI",
+    "population": "5,244,000",
+    "area": "337,030"
+  },
+  {
+    "name": "France",
+    "countryCode": "33",
+    "shortCode": "FR",
+    "population": "64,768,389",
+    "area": "547,030"
+  },
+  {
+    "name": "French Polynesia",
+    "countryCode": "689",
+    "shortCode": "PF",
+    "population": "270,485",
+    "area": "4,167"
+  },
+  {
+    "name": "Gabon",
+    "countryCode": "241",
+    "shortCode": "GA",
+    "population": "1,545,255",
+    "area": "267,667"
+  },
+  {
+    "name": "Gambia",
+    "countryCode": "220",
+    "shortCode": "GM",
+    "population": "1,593,256",
+    "area": "11,300"
+  },
+  {
+    "name": "Georgia",
+    "countryCode": "995",
+    "shortCode": "GE",
+    "population": "4,630,000",
+    "area": "69,700"
+  },
+  {
+    "name": "Germany",
+    "countryCode": "49",
+    "shortCode": "DE",
+    "population": "81,802,257",
+    "area": "357,021"
+  },
+  {
+    "name": "Ghana",
+    "countryCode": "233",
+    "shortCode": "GH",
+    "population": "24,339,838",
+    "area": "239,460"
+  },
+  {
+    "name": "Gibraltar",
+    "countryCode": "350",
+    "shortCode": "GI",
+    "population": "27,884",
+    "area": "7"
+  },
+  {
+    "name": "Greece",
+    "countryCode": "30",
+    "shortCode": "GR",
+    "population": "11,000,000",
+    "area": "131,940"
+  },
+  {
+    "name": "Greenland",
+    "countryCode": "299",
+    "shortCode": "GL",
+    "population": "56,375",
+    "area": "2,166,086"
+  },
+  {
+    "name": "Grenada",
+    "countryCode": "1-473",
+    "shortCode": "GD",
+    "population": "107,818",
+    "area": "344"
+  },
+  {
+    "name": "Guam",
+    "countryCode": "1-671",
+    "shortCode": "GU",
+    "population": "159,358",
+    "area": "549"
+  },
+  {
+    "name": "Guatemala",
+    "countryCode": "502",
+    "shortCode": "GT",
+    "population": "13,550,440",
+    "area": "108,890"
+  },
+  {
+    "name": "Guernsey",
+    "countryCode": "44-1481",
+    "shortCode": "GG",
+    "population": "65,228",
+    "area": "78"
+  },
+  {
+    "name": "Guinea",
+    "countryCode": "224",
+    "shortCode": "GN",
+    "population": "10,324,025",
+    "area": "245,857"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "countryCode": "245",
+    "shortCode": "GW",
+    "population": "1,565,126",
+    "area": "36,120"
+  },
+  {
+    "name": "Guyana",
+    "countryCode": "592",
+    "shortCode": "GY",
+    "population": "748,486",
+    "area": "214,970"
+  },
+  {
+    "name": "Haiti",
+    "countryCode": "509",
+    "shortCode": "HT",
+    "population": "9,648,924",
+    "area": "27,750"
+  },
+  {
+    "name": "Honduras",
+    "countryCode": "504",
+    "shortCode": "HN",
+    "population": "7,989,415",
+    "area": "112,090"
+  },
+  {
+    "name": "Hong Kong",
+    "countryCode": "852",
+    "shortCode": "HK",
+    "population": "6,898,686",
+    "area": "1,092"
+  },
+  {
+    "name": "Hungary",
+    "countryCode": "36",
+    "shortCode": "HU",
+    "population": "9,982,000",
+    "area": "93,030"
+  },
+  {
+    "name": "Iceland",
+    "countryCode": "354",
+    "shortCode": "IS",
+    "population": "308,910",
+    "area": "103,000"
+  },
+  {
+    "name": "India",
+    "countryCode": "91",
+    "shortCode": "IN",
+    "population": "1,173,108,018",
+    "area": "3,287,590"
+  },
+  {
+    "name": "Indonesia",
+    "countryCode": "62",
+    "shortCode": "ID",
+    "population": "242,968,342",
+    "area": "1,919,440"
+  },
+  {
+    "name": "Iran",
+    "countryCode": "98",
+    "shortCode": "IR",
+    "population": "76,923,300",
+    "area": "1,648,000"
+  },
+  {
+    "name": "Iraq",
+    "countryCode": "964",
+    "shortCode": "IQ",
+    "population": "29,671,605",
+    "area": "437,072"
+  },
+  {
+    "name": "Ireland",
+    "countryCode": "353",
+    "shortCode": "IE",
+    "population": "4,622,917",
+    "area": "70,280"
+  },
+  {
+    "name": "Isle of Man",
+    "countryCode": "44-1624",
+    "shortCode": "IM",
+    "population": "75,049",
+    "area": "572"
+  },
+  {
+    "name": "Israel",
+    "countryCode": "972",
+    "shortCode": "IL",
+    "population": "7,353,985",
+    "area": "20,770"
+  },
+  {
+    "name": "Italy",
+    "countryCode": "39",
+    "shortCode": "IT",
+    "population": "60,340,328",
+    "area": "301,230"
+  },
+  {
+    "name": "Ivory Coast",
+    "countryCode": "225",
+    "shortCode": "CI",
+    "population": "21,058,798",
+    "area": "322,460"
+  },
+  {
+    "name": "Jamaica",
+    "countryCode": "1-876",
+    "shortCode": "JM",
+    "population": "2,847,232",
+    "area": "10,991"
+  },
+  {
+    "name": "Japan",
+    "countryCode": "81",
+    "shortCode": "JP",
+    "population": "127,288,000",
+    "area": "377,835"
+  },
+  {
+    "name": "Jersey",
+    "countryCode": "44-1534",
+    "shortCode": "JE",
+    "population": "90,812",
+    "area": "116"
+  },
+  {
+    "name": "Jordan",
+    "countryCode": "962",
+    "shortCode": "JO",
+    "population": "6,407,085",
+    "area": "92,300"
+  },
+  {
+    "name": "Kazakhstan",
+    "countryCode": "7",
+    "shortCode": "KZ",
+    "population": "15,340,000",
+    "area": "2,717,300"
+  },
+  {
+    "name": "Kenya",
+    "countryCode": "254",
+    "shortCode": "KE",
+    "population": "40,046,566",
+    "area": "582,650"
+  },
+  {
+    "name": "Kiribati",
+    "countryCode": "686",
+    "shortCode": "KI",
+    "population": "92,533",
+    "area": "811"
+  },
+  {
+    "name": "Kosovo",
+    "countryCode": "383",
+    "shortCode": "XK",
+    "population": "1,800,000",
+    "area": "10,887"
+  },
+  {
+    "name": "Kuwait",
+    "countryCode": "965",
+    "shortCode": "KW",
+    "population": "2,789,132",
+    "area": "17,820"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "countryCode": "996",
+    "shortCode": "KG",
+    "population": "5,508,626",
+    "area": "198,500"
+  },
+  {
+    "name": "Laos",
+    "countryCode": "856",
+    "shortCode": "LA",
+    "population": "6,368,162",
+    "area": "236,800"
+  },
+  {
+    "name": "Latvia",
+    "countryCode": "371",
+    "shortCode": "LV",
+    "population": "2,217,969",
+    "area": "64,589"
+  },
+  {
+    "name": "Lebanon",
+    "countryCode": "961",
+    "shortCode": "LB",
+    "population": "4,125,247",
+    "area": "10,400"
+  },
+  {
+    "name": "Lesotho",
+    "countryCode": "266",
+    "shortCode": "LS",
+    "population": "1,919,552",
+    "area": "30,355"
+  },
+  {
+    "name": "Liberia",
+    "countryCode": "231",
+    "shortCode": "LR",
+    "population": "3,685,076",
+    "area": "111,370"
+  },
+  {
+    "name": "Libya",
+    "countryCode": "218",
+    "shortCode": "LY",
+    "population": "6,461,454",
+    "area": "1,759,540"
+  },
+  {
+    "name": "Liechtenstein",
+    "countryCode": "423",
+    "shortCode": "LI",
+    "population": "35,000",
+    "area": "160"
+  },
+  {
+    "name": "Lithuania",
+    "countryCode": "370",
+    "shortCode": "LT",
+    "population": "2,944,459",
+    "area": "65,200"
+  },
+  {
+    "name": "Luxembourg",
+    "countryCode": "352",
+    "shortCode": "LU",
+    "population": "497,538",
+    "area": "2,586"
+  },
+  {
+    "name": "Macau",
+    "countryCode": "853",
+    "shortCode": "MO",
+    "population": "449,198",
+    "area": "254"
+  },
+  {
+    "name": "Macedonia",
+    "countryCode": "389",
+    "shortCode": "MK",
+    "population": "2,062,294",
+    "area": "25,333"
+  },
+  {
+    "name": "Madagascar",
+    "countryCode": "261",
+    "shortCode": "MG",
+    "population": "21,281,844",
+    "area": "587,040"
+  },
+  {
+    "name": "Malawi",
+    "countryCode": "265",
+    "shortCode": "MW",
+    "population": "15,447,500",
+    "area": "118,480"
+  },
+  {
+    "name": "Malaysia",
+    "countryCode": "60",
+    "shortCode": "MY",
+    "population": "28,274,729",
+    "area": "329,750"
+  },
+  {
+    "name": "Maldives",
+    "countryCode": "960",
+    "shortCode": "MV",
+    "population": "395,650",
+    "area": "300"
+  },
+  {
+    "name": "Mali",
+    "countryCode": "223",
+    "shortCode": "ML",
+    "population": "13,796,354",
+    "area": "1,240,000"
+  },
+  {
+    "name": "Malta",
+    "countryCode": "356",
+    "shortCode": "MT",
+    "population": "403,000",
+    "area": "316"
+  },
+  {
+    "name": "Marshall Islands",
+    "countryCode": "692",
+    "shortCode": "MH",
+    "population": "65,859",
+    "area": "181"
+  },
+  {
+    "name": "Mauritania",
+    "countryCode": "222",
+    "shortCode": "MR",
+    "population": "3,205,060",
+    "area": "1,030,700"
+  },
+  {
+    "name": "Mauritius",
+    "countryCode": "230",
+    "shortCode": "MU",
+    "population": "1,294,104",
+    "area": "2,040"
+  },
+  {
+    "name": "Mayotte",
+    "countryCode": "262",
+    "shortCode": "YT",
+    "population": "159,042",
+    "area": "374"
+  },
+  {
+    "name": "Mexico",
+    "countryCode": "52",
+    "shortCode": "MX",
+    "population": "112,468,855",
+    "area": "1,972,550"
+  },
+  {
+    "name": "Micronesia",
+    "countryCode": "691",
+    "shortCode": "FM",
+    "population": "107,708",
+    "area": "702"
+  },
+  {
+    "name": "Moldova",
+    "countryCode": "373",
+    "shortCode": "MD",
+    "population": "4,324,000",
+    "area": "33,843"
+  },
+  {
+    "name": "Monaco",
+    "countryCode": "377",
+    "shortCode": "MC",
+    "population": "32,965",
+    "area": "2"
+  },
+  {
+    "name": "Mongolia",
+    "countryCode": "976",
+    "shortCode": "MN",
+    "population": "3,086,918",
+    "area": "1,565,000"
+  },
+  {
+    "name": "Montenegro",
+    "countryCode": "382",
+    "shortCode": "ME",
+    "population": "666,730",
+    "area": "14,026"
+  },
+  {
+    "name": "Montserrat",
+    "countryCode": "1-664",
+    "shortCode": "MS",
+    "population": "9,341",
+    "area": "102"
+  },
+  {
+    "name": "Morocco",
+    "countryCode": "212",
+    "shortCode": "MA",
+    "population": "31,627,428",
+    "area": "446,550"
+  },
+  {
+    "name": "Mozambique",
+    "countryCode": "258",
+    "shortCode": "MZ",
+    "population": "22,061,451",
+    "area": "801,590"
+  },
+  {
+    "name": "Myanmar",
+    "countryCode": "95",
+    "shortCode": "MM",
+    "population": "53,414,374",
+    "area": "678,500"
+  },
+  {
+    "name": "Namibia",
+    "countryCode": "264",
+    "shortCode": "NA",
+    "population": "2,128,471",
+    "area": "825,418"
+  },
+  {
+    "name": "Nauru",
+    "countryCode": "674",
+    "shortCode": "NR",
+    "population": "10,065",
+    "area": "21"
+  },
+  {
+    "name": "Nepal",
+    "countryCode": "977",
+    "shortCode": "NP",
+    "population": "28,951,852",
+    "area": "140,800"
+  },
+  {
+    "name": "Netherlands",
+    "countryCode": "31",
+    "shortCode": "NL",
+    "population": "16,645,000",
+    "area": "41,526"
+  },
+  {
+    "name": "Netherlands Antilles",
+    "countryCode": "599",
+    "shortCode": "AN",
+    "population": "136,197",
+    "area": "960"
+  },
+  {
+    "name": "New Caledonia",
+    "countryCode": "687",
+    "shortCode": "NC",
+    "population": "216,494",
+    "area": "19,060"
+  },
+  {
+    "name": "New Zealand",
+    "countryCode": "64",
+    "shortCode": "NZ",
+    "population": "4,252,277",
+    "area": "268,680"
+  },
+  {
+    "name": "Nicaragua",
+    "countryCode": "505",
+    "shortCode": "NI",
+    "population": "5,995,928",
+    "area": "129,494"
+  },
+  {
+    "name": "Niger",
+    "countryCode": "227",
+    "shortCode": "NE",
+    "population": "15,878,271",
+    "area": "1,267,000"
+  },
+  {
+    "name": "Nigeria",
+    "countryCode": "234",
+    "shortCode": "NG",
+    "population": "154,000,000",
+    "area": "923,768"
+  },
+  {
+    "name": "Niue",
+    "countryCode": "683",
+    "shortCode": "NU",
+    "population": "2,166",
+    "area": "260"
+  },
+  {
+    "name": "North Korea",
+    "countryCode": "850",
+    "shortCode": "KP",
+    "population": "22,912,177",
+    "area": "120,540"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "countryCode": "1-670",
+    "shortCode": "MP",
+    "population": "53,883",
+    "area": "477"
+  },
+  {
+    "name": "Norway",
+    "countryCode": "47",
+    "shortCode": "NO",
+    "population": "5,009,150",
+    "area": "324,220"
+  },
+  {
+    "name": "Oman",
+    "countryCode": "968",
+    "shortCode": "OM",
+    "population": "2,967,717",
+    "area": "212,460"
+  },
+  {
+    "name": "Pakistan",
+    "countryCode": "92",
+    "shortCode": "PK",
+    "population": "184,404,791",
+    "area": "803,940"
+  },
+  {
+    "name": "Palau",
+    "countryCode": "680",
+    "shortCode": "PW",
+    "population": "19,907",
+    "area": "458"
+  },
+  {
+    "name": "Palestine",
+    "countryCode": "970",
+    "shortCode": "PS",
+    "population": "3,800,000",
+    "area": "5,970"
+  },
+  {
+    "name": "Panama",
+    "countryCode": "507",
+    "shortCode": "PA",
+    "population": "3,410,676",
+    "area": "78,200"
+  },
+  {
+    "name": "Papua New Guinea",
+    "countryCode": "675",
+    "shortCode": "PG",
+    "population": "6,064,515",
+    "area": "462,840"
+  },
+  {
+    "name": "Paraguay",
+    "countryCode": "595",
+    "shortCode": "PY",
+    "population": "6,375,830",
+    "area": "406,750"
+  },
+  {
+    "name": "Peru",
+    "countryCode": "51",
+    "shortCode": "PE",
+    "population": "29,907,003",
+    "area": "1,285,220"
+  },
+  {
+    "name": "Philippines",
+    "countryCode": "63",
+    "shortCode": "PH",
+    "population": "99,900,177",
+    "area": "300,000"
+  },
+  {
+    "name": "Pitcairn",
+    "countryCode": "64",
+    "shortCode": "PN",
+    "population": "46",
+    "area": "47"
+  },
+  {
+    "name": "Poland",
+    "countryCode": "48",
+    "shortCode": "PL",
+    "population": "38,500,000",
+    "area": "312,685"
+  },
+  {
+    "name": "Portugal",
+    "countryCode": "351",
+    "shortCode": "PT",
+    "population": "10,676,000",
+    "area": "92,391"
+  },
+  {
+    "name": "Puerto Rico",
+    "countryCode": "1-787, 1-939",
+    "shortCode": "PR",
+    "population": "3,916,632",
+    "area": "9,104"
+  },
+  {
+    "name": "Qatar",
+    "countryCode": "974",
+    "shortCode": "QA",
+    "population": "840,926",
+    "area": "11,437"
+  },
+  {
+    "name": "Republic of the Congo",
+    "countryCode": "242",
+    "shortCode": "CG",
+    "population": "3,039,126",
+    "area": "342,000"
+  },
+  {
+    "name": "Reunion",
+    "countryCode": "262",
+    "shortCode": "RE",
+    "population": "776,948",
+    "area": "2,517"
+  },
+  {
+    "name": "Romania",
+    "countryCode": "40",
+    "shortCode": "RO",
+    "population": "21,959,278",
+    "area": "237,500"
+  },
+  {
+    "name": "Russia",
+    "countryCode": "7",
+    "shortCode": "RU",
+    "population": "140,702,000",
+    "area": "17,100,000"
+  },
+  {
+    "name": "Rwanda",
+    "countryCode": "250",
+    "shortCode": "RW",
+    "population": "11,055,976",
+    "area": "26,338"
+  },
+  {
+    "name": "Saint Barthelemy",
+    "countryCode": "590",
+    "shortCode": "BL",
+    "population": "8,450",
+    "area": "21"
+  },
+  {
+    "name": "Saint Helena",
+    "countryCode": "290",
+    "shortCode": "SH",
+    "population": "7,460",
+    "area": "410"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "countryCode": "1-869",
+    "shortCode": "KN",
+    "population": "51,134",
+    "area": "261"
+  },
+  {
+    "name": "Saint Lucia",
+    "countryCode": "1-758",
+    "shortCode": "LC",
+    "population": "160,922",
+    "area": "616"
+  },
+  {
+    "name": "Saint Martin",
+    "countryCode": "590",
+    "shortCode": "MF",
+    "population": "35,925",
+    "area": "53"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "countryCode": "508",
+    "shortCode": "PM",
+    "population": "7,012",
+    "area": "242"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "countryCode": "1-784",
+    "shortCode": "VC",
+    "population": "104,217",
+    "area": "389"
+  },
+  {
+    "name": "Samoa",
+    "countryCode": "685",
+    "shortCode": "WS",
+    "population": "192,001",
+    "area": "2,944"
+  },
+  {
+    "name": "San Marino",
+    "countryCode": "378",
+    "shortCode": "SM",
+    "population": "31,477",
+    "area": "61"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "countryCode": "239",
+    "shortCode": "ST",
+    "population": "175,808",
+    "area": "1,001"
+  },
+  {
+    "name": "Saudi Arabia",
+    "countryCode": "966",
+    "shortCode": "SA",
+    "population": "25,731,776",
+    "area": "1,960,582"
+  },
+  {
+    "name": "Senegal",
+    "countryCode": "221",
+    "shortCode": "SN",
+    "population": "12,323,252",
+    "area": "196,190"
+  },
+  {
+    "name": "Serbia",
+    "countryCode": "381",
+    "shortCode": "RS",
+    "population": "7,344,847",
+    "area": "88,361"
+  },
+  {
+    "name": "Seychelles",
+    "countryCode": "248",
+    "shortCode": "SC",
+    "population": "88,340",
+    "area": "455"
+  },
+  {
+    "name": "Sierra Leone",
+    "countryCode": "232",
+    "shortCode": "SL",
+    "population": "5,245,695",
+    "area": "71,740"
+  },
+  {
+    "name": "Singapore",
+    "countryCode": "65",
+    "shortCode": "SG",
+    "population": "4,701,069",
+    "area": "693"
+  },
+  {
+    "name": "Sint Maarten",
+    "countryCode": "1-721",
+    "shortCode": "SX",
+    "population": "37,429",
+    "area": "34"
+  },
+  {
+    "name": "Slovakia",
+    "countryCode": "421",
+    "shortCode": "SK",
+    "population": "5,455,000",
+    "area": "48,845"
+  },
+  {
+    "name": "Slovenia",
+    "countryCode": "386",
+    "shortCode": "SI",
+    "population": "2,007,000",
+    "area": "20,273"
+  },
+  {
+    "name": "Solomon Islands",
+    "countryCode": "677",
+    "shortCode": "SB",
+    "population": "559,198",
+    "area": "28,450"
+  },
+  {
+    "name": "Somalia",
+    "countryCode": "252",
+    "shortCode": "SO",
+    "population": "10,112,453",
+    "area": "637,657"
+  },
+  {
+    "name": "South Africa",
+    "countryCode": "27",
+    "shortCode": "ZA",
+    "population": "49,000,000",
+    "area": "1,219,912"
+  },
+  {
+    "name": "South Korea",
+    "countryCode": "82",
+    "shortCode": "KR",
+    "population": "48,422,644",
+    "area": "98,480"
+  },
+  {
+    "name": "South Sudan",
+    "countryCode": "211",
+    "shortCode": "SS",
+    "population": "8,260,490",
+    "area": "644,329"
+  },
+  {
+    "name": "Spain",
+    "countryCode": "34",
+    "shortCode": "ES",
+    "population": "46,505,963",
+    "area": "504,782"
+  },
+  {
+    "name": "Sri Lanka",
+    "countryCode": "94",
+    "shortCode": "LK",
+    "population": "21,513,990",
+    "area": "65,610"
+  },
+  {
+    "name": "Sudan",
+    "countryCode": "249",
+    "shortCode": "SD",
+    "population": "35,000,000",
+    "area": "1,861,484"
+  },
+  {
+    "name": "Suriname",
+    "countryCode": "597",
+    "shortCode": "SR",
+    "population": "492,829",
+    "area": "163,270"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "countryCode": "47",
+    "shortCode": "SJ",
+    "population": "2,550",
+    "area": "62,049"
+  },
+  {
+    "name": "Swaziland",
+    "countryCode": "268",
+    "shortCode": "SZ",
+    "population": "1,354,051",
+    "area": "17,363"
+  },
+  {
+    "name": "Sweden",
+    "countryCode": "46",
+    "shortCode": "SE",
+    "population": "9,555,893",
+    "area": "449,964"
+  },
+  {
+    "name": "Switzerland",
+    "countryCode": "41",
+    "shortCode": "CH",
+    "population": "7,581,000",
+    "area": "41,290"
+  },
+  {
+    "name": "Syria",
+    "countryCode": "963",
+    "shortCode": "SY",
+    "population": "22,198,110",
+    "area": "185,180"
+  },
+  {
+    "name": "Taiwan",
+    "countryCode": "886",
+    "shortCode": "TW",
+    "population": "22,894,384",
+    "area": "35,980"
+  },
+  {
+    "name": "Tajikistan",
+    "countryCode": "992",
+    "shortCode": "TJ",
+    "population": "7,487,489",
+    "area": "143,100"
+  },
+  {
+    "name": "Tanzania",
+    "countryCode": "255",
+    "shortCode": "TZ",
+    "population": "41,892,895",
+    "area": "945,087"
+  },
+  {
+    "name": "Thailand",
+    "countryCode": "66",
+    "shortCode": "TH",
+    "population": "67,089,500",
+    "area": "514,000"
+  },
+  {
+    "name": "Togo",
+    "countryCode": "228",
+    "shortCode": "TG",
+    "population": "6,587,239",
+    "area": "56,785"
+  },
+  {
+    "name": "Tokelau",
+    "countryCode": "690",
+    "shortCode": "TK",
+    "population": "1,466",
+    "area": "10"
+  },
+  {
+    "name": "Tonga",
+    "countryCode": "676",
+    "shortCode": "TO",
+    "population": "122,580",
+    "area": "748"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "countryCode": "1-868",
+    "shortCode": "TT",
+    "population": "1,228,691",
+    "area": "5,128"
+  },
+  {
+    "name": "Tunisia",
+    "countryCode": "216",
+    "shortCode": "TN",
+    "population": "10,589,025",
+    "area": "163,610"
+  },
+  {
+    "name": "Turkey",
+    "countryCode": "90",
+    "shortCode": "TR",
+    "population": "77,804,122",
+    "area": "780,580"
+  },
+  {
+    "name": "Turkmenistan",
+    "countryCode": "993",
+    "shortCode": "TM",
+    "population": "4,940,916",
+    "area": "488,100"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "countryCode": "1-649",
+    "shortCode": "TC",
+    "population": "20,556",
+    "area": "430"
+  },
+  {
+    "name": "Tuvalu",
+    "countryCode": "688",
+    "shortCode": "TV",
+    "population": "10,472",
+    "area": "26"
+  },
+  {
+    "name": "U.S. Virgin Islands",
+    "countryCode": "1-340",
+    "shortCode": "VI",
+    "population": "108,708",
+    "area": "352"
+  },
+  {
+    "name": "Uganda",
+    "countryCode": "256",
+    "shortCode": "UG",
+    "population": "33,398,682",
+    "area": "236,040"
+  },
+  {
+    "name": "Ukraine",
+    "countryCode": "380",
+    "shortCode": "UA",
+    "population": "45,415,596",
+    "area": "603,700"
+  },
+  {
+    "name": "United Arab Emirates",
+    "countryCode": "971",
+    "shortCode": "AE",
+    "population": "4,975,593",
+    "area": "82,880"
+  },
+  {
+    "name": "United Kingdom",
+    "countryCode": "44",
+    "shortCode": "GB",
+    "population": "62,348,447",
+    "area": "244,820"
+  },
+  {
+    "name": "United States",
+    "countryCode": "1",
+    "shortCode": "US",
+    "population": "310,232,863",
+    "area": "9,629,091"
+  },
+  {
+    "name": "Uruguay",
+    "countryCode": "598",
+    "shortCode": "UY",
+    "population": "3,477,000",
+    "area": "176,220"
+  },
+  {
+    "name": "Uzbekistan",
+    "countryCode": "998",
+    "shortCode": "UZ",
+    "population": "27,865,738",
+    "area": "447,400"
+  },
+  {
+    "name": "Vanuatu",
+    "countryCode": "678",
+    "shortCode": "VU",
+    "population": "221,552",
+    "area": "12,200"
+  },
+  {
+    "name": "Vatican",
+    "countryCode": "379",
+    "shortCode": "VA",
+    "population": "921",
+    "area": "0"
+  },
+  {
+    "name": "Venezuela",
+    "countryCode": "58",
+    "shortCode": "VE",
+    "population": "27,223,228",
+    "area": "912,050"
+  },
+  {
+    "name": "Vietnam",
+    "countryCode": "84",
+    "shortCode": "VN",
+    "population": "89,571,130",
+    "area": "329,560"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "countryCode": "681",
+    "shortCode": "WF",
+    "population": "16,025",
+    "area": "274"
+  },
+  {
+    "name": "Western Sahara",
+    "countryCode": "212",
+    "shortCode": "EH",
+    "population": "273,008",
+    "area": "266,000"
+  },
+  {
+    "name": "Yemen",
+    "countryCode": "967",
+    "shortCode": "YE",
+    "population": "23,495,361",
+    "area": "527,970"
+  },
+  {
+    "name": "Zambia",
+    "countryCode": "260",
+    "shortCode": "ZM",
+    "population": "13,460,305",
+    "area": "752,614"
+  },
+  {
+    "name": "Zimbabwe",
+    "countryCode": "263",
+    "shortCode": "ZW",
+    "population": "11,651,858",
+    "area": "390,580"
+  }
+]
